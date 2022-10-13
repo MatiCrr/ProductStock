@@ -1,0 +1,53 @@
+[{
+    "id":0,
+"nombre":"Rolex Lady Datejust 2",
+"cantidad":1,"precio":2000,
+"img":"img/nike.jpg",
+"shortDesc":"Lorem ipsum dolor sit amet consectetur adipisicing elit."},
+
+{
+"id":1,
+"nombre":"Adidas Classic",
+"cantidad":1,"precio":1800,
+"img":"img/nike.jpg",
+"desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit."},
+{
+    "id":2,
+"nombre":"Producto 3",
+"cantidad":1,
+"precio":5000,
+"img":"img/nike.jpg",
+"desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit."},
+{
+    "id":3,
+"nombre":"Producto 4",
+"cantidad":1,
+"precio":2250,
+"img":"img/nike.jpg",
+"desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit."},
+{
+    "id":4,
+"nombre":"Producto 5",
+"cantidad":1,
+"precio":900,
+"img":"img/nike.jpg",
+"desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit."},
+{
+    "id":5,
+"nombre":"Producto 6",
+"cantidad":1,"precio":1200,
+"img":"img/nike.jpg",
+"desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit."},
+{
+    "id":6,
+"nombre":"Producto 7",
+"cantidad":1,"precio":1200,
+"img":"img/nike.jpg",
+"desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit."},
+{
+    "id":7,
+"nombre":"Producto 8",
+"cantidad":1,
+"precio":1200,
+"img":"img/nike.jpg",
+"desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit."}]
